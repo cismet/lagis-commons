@@ -68,4 +68,5 @@ public class LagisMetaclassConstants {
     public static final String VERWALTUNGSBEREICH = "verwaltungsbereich";
     public static final String VERWALTUNGSBEREICHE_EINTRAG = "verwaltungsbereiche_eintrag";
     public static final String VERWALTUNGSGEBRAUCH = "verwaltungsgebrauch";
+    public static final String MC_FORTFUEHRUNG = "fortfuehrung";
 }
