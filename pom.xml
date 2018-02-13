@@ -20,7 +20,7 @@
         <names.lagis-commons>LagIS Commons</names.lagis-commons>
     </properties>
     
-    <name>${names.lagis-commons}</name>
+    <name>${names.lagis-commons} [${project.version}]</name>
     <description>!!! description pending !!!</description>
     
     <scm>
