@@ -8,12 +8,12 @@
     <parent>
         <groupId>de.cismet.cids</groupId>
         <artifactId>cids-parent</artifactId>
-        <version>7.0</version>
+        <version>8.0</version>
     </parent>
 
     <groupId>de.cismet.lagis</groupId>
     <artifactId>lagis-commons</artifactId>
-    <version>7.0</version>
+    <version>8.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -27,7 +27,7 @@
         <connection>https://github.com/cismet/lagis-commons.git</connection>
         <developerConnection>scm:git:git@github.com:cismet/lagis-commons.git</developerConnection>
         <url>https://github.com/cismet/lagis-commons</url>
-        <tag>v7.0</tag>
+        <tag>v8.0</tag>
     </scm>
     
     <ciManagement>
