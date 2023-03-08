@@ -8,12 +8,12 @@
     <parent>
         <groupId>de.cismet.cids</groupId>
         <artifactId>cids-parent</artifactId>
-        <version>7.0</version>
+        <version>8.0</version>
     </parent>
 
     <groupId>de.cismet.lagis</groupId>
     <artifactId>lagis-commons</artifactId>
-    <version>7.1-SNAPSHOT</version>
+    <version>8.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
